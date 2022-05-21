@@ -1,0 +1,15 @@
+1)
+- [id='blocks']
+- div.container > article
+- .lead.blocks-page 
+
+2) //p[text()='Bar doggo']
+
+3) .jumbotron-heading
+
+4)a.text-muted
+5) input[type='checkbox']
+6) div.row>div:nth-child(3) .btn-group > button:nth-child(1)
+7) //img[@class="card-img-top"]
+
+
